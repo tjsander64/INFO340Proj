@@ -4,3 +4,4 @@
 Joshua Taylor 
 Tom Sander
 Srishti Singh
+Trisha Thonupunoori
