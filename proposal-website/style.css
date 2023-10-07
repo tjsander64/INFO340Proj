@@ -1,0 +1,54 @@
+/* Background */
+body {
+    background-color: #f0f0f0;
+    margin: 20px;
+    font-family: Arial, sans-serif; 
+}
+
+/* Header */
+header {
+    text-align: center;
+    background-color: #406519;
+    color:white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+.app-description {
+    font-style: italic;
+}
+
+/* Article Sections */
+article {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(188, 209, 186);
+}
+
+h2 {
+    color: #333;
+    font-size: 1.5em;
+}
+
+p {
+    line-height: 1.5;
+}
+
+/* Key Features */
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid green;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
